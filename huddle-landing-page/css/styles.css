@@ -1,0 +1,56 @@
+/**********tag-selectors*******/
+body{
+  background-color: 	#674baf;
+  margin: 0;
+}
+
+/**********class-selectors*******/
+.illustration{
+position: absolute;
+top: 193px;
+left: 72px;
+}
+.heading-2{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 35px;
+  font-weight: 600;
+  margin-top: 77px;
+}
+.description{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 15px;
+}
+.text{
+  position:absolute;
+  right: 260px;
+  top: 170px;
+}
+.logo{
+  position: absolute;
+  top: 50px;
+  left: 72px;
+
+}
+.btn{
+  background-color: white;
+  color: #674baf;
+  border-radius: 40px;
+  padding: 12px 50px 16px 50px;
+  text-decoration: none;
+  line-height: 74px;
+  box-shadow: 0 10px 15px  rgb(0 0 0 / 25%);
+}
+.icons{
+  width: 40px;
+  height: 40px;
+}
+.container{
+  display: block;
+  position: absolute;
+  right: 60px;
+  bottom: -60px;
+  color: white;
+}

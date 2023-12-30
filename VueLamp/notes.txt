@@ -1,0 +1,3 @@
+learn about perfect uses of divs, position, display, flex.
+
+new: transform property, cursor, making apple buttons, toggle javascript
